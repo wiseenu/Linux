@@ -1,0 +1,11 @@
+Script started on 2022-02-15 12:59:25+07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="105" LINES="55"]
+]0;wisnu@wisnu: ~/MBKM/tmp[01;32mwisnu@wisnu[00m:[01;34m~/MBKM/tmp[00m$ wisnu
+wisnu: command not found
+]0;wisnu@wisnu: ~/MBKM/tmp[01;32mwisnu@wisnu[00m:[01;34m~/MBKM/tmp[00m$ putra
+putra: command not found
+]0;wisnu@wisnu: ~/MBKM/tmp[01;32mwisnu@wisnu[00m:[01;34m~/MBKM/tmp[00m$ wardana
+wardana: command not found
+]0;wisnu@wisnu: ~/MBKM/tmp[01;32mwisnu@wisnu[00m:[01;34m~/MBKM/tmp[00m$ exit
+exit
+
+Script done on 2022-02-15 12:59:32+07:00 [COMMAND_EXIT_CODE="127"]
